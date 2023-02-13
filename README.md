@@ -2,11 +2,6 @@
 **Course:**
 Data Engineering (w205) - UC Berkeley, Fall 2021
 
-**Objective:** 
-  <i> 
-  Our goal is to classisfy breast cancer mount slide images into cancerous vs. non-cancerous. These images were obtained from the [Kaggle website](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images). We trained SVM (Support Vector Machine) as a baseline model and then three additional models with include Random Forest, CNN (Convolutional Neural Network), and CNN with transfer learning. 
-  </i>
-
 **Motivation:**
 
 Twitter is an online news and social networking site where people communicate in short messges called tweets. Twitter boasts approximately 400 million users, of which 75% are based outside of the US[1]. As such, users post tweets on various topics, ranging from politics, lifestyle, memes and so on. Twitter is also often used by users to voice opinions and share information regarding ongoing events like sports games, political events and even protests. This digital infrastructure of twitter creates enormous amounts of data that contains invaluable information and insights. However, the task to collect, filter and analyze data from twitter is a difficult one and requires setting up a data pipeline using several state-of-the-art technologies that are capable of handling data at a large scale.
