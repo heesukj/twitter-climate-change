@@ -3,8 +3,10 @@
 Data Engineering (w205) - UC Berkeley, Fall 2021
 
 **Contributors:**
+- Devashish Kulkarni
+- Mili Gera
 - Heesuk Jang
-- Mile
+- Matt Whittaker
 
 **Motivation:**
 
